@@ -1,0 +1,40 @@
+These files can be served up via a python server. Download and extract the zip; run a python server 
+in the Bootcamp Project 2 folder, for easy access to both projects.
+To access the server, you can use: python -m SimpleHTTPServer 8069
+Then put this in as the URL in your browser: localhost:8069/
+
+Meeting the interaction requirement of this project:
+Each bubble has a tool tip that gives the name of the park and its rank
+
+Contents:
+I got the hyperlink to the source of the content from Aparna's notebook files, and included them in the Source note at the 
+bottom of each page.
+
+About the bubble chart:
+There's some cool stuff going on here!
+
+First, the bubble elements are set up with Force x/ Force y layout, which tells the chart to attract elements to each other based
+on a strength of attraction I set. 
+
+The bigger bubbles are drawn to the middle, and the smaller bubbles float further apart toward the outer edges.
+
+From an end user perspective, this is nice...it makes the chart intuitive and user-friendly.
+It tells me to hover over the bigger bubbles that are drawn toward the middle to quickly interact with the chart and see the high-priority rides I need to make sure to visit.
+I can disregard the small bubbles around the parameter of the chart.
+In other words I don't have to hover over every bubble to figure out its significance.
+
+About my process/workflow:
+1. Get CSV from Aparna (generated from notebook/write CSV)
+2. Either in excel or in a jupyter notebook, read the CSV, add a "weighted rank column", in which the #1 ride has the highest weighted rank.
+   For example: In a ranking of 55 parks, the number 1 ride should have a weighted rank of 55 (meaning it's the most significant)
+   ^^ why?  So, that I can ensure the #1 park has the biggest bubble and so on.
+3. In the CSV or jupyter notebook, sort by rank, so the biggest weighted rank is at the top (Row 2).
+   ^^ why? This ensures the big bubbles hover toward the middle of my chart. If it's sorted the other way, the big bubbles
+      float to the outside and the small bubbles go to the middle, which isn't what we want.
+3. Create d3 visualization
+
+
+
+
+
+

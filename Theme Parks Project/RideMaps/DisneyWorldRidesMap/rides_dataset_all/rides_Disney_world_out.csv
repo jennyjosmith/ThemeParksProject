@@ -1,0 +1,56 @@
+Rank,Roller Coaster Rides,weightedrank,lat,lng,rating,dataset
+1, Expedition Everest - Legend of the Forbidden Mountain,55,28.358727,-81.5871334,0,rides_Disney_world
+2, Haunted Mansion,54,28.420169,-81.582894,4.6,rides_Disney_world
+3, The Twilight Zone Tower of Terror,53,28.3600612,-81.5599278,4.8,rides_Disney_world
+4, Soaring Around The World,52,33.8083961,-117.919971,4.7,rides_Disney_world
+5, Space Mountain,51,28.4191261,-81.5772408,4.6,rides_Disney_world
+6, Toy Story Mania!,50,28.3560536,-81.56148639999999,4.7,rides_Disney_world
+7, Splash Mountain,49,28.4191317,-81.5850222,4.8,rides_Disney_world
+8, Big Thunder Mountain Railroad,48,28.420005,-81.584622,4.6,rides_Disney_world
+9, Avatar Flight of Passage,47,28.3555672,-81.5922259,4.7,rides_Disney_world
+10, Seven Dwarfs Mine Train,46,28.4204315,-81.5804457,4.4,rides_Disney_world
+11, Kilimanjaro Safaris,45,28.359698,-81.5924241,4.6,rides_Disney_world
+12, Pirates of the Caribbean,44,28.4180309,-81.5842212,4.6,rides_Disney_world
+13, Rock 'n Roller Coaster Starring Aerosmith,43,28.3594815,-81.5610081,4.7,rides_Disney_world
+14, Slinky Dog Dash,42,28.35629,-81.562877,4.8,rides_Disney_world
+15, Star Tours: The Adventure Continues,41,28.3554943,-81.5587382,4.6,rides_Disney_world
+16, It's A Small World,40,28.420493,-81.582044,4.3,rides_Disney_world
+17," Monsters, Inc Laugh Floor",39,28.4183768,-81.57974829999999,4.4,rides_Disney_world
+18, Peter Pan's Flight,38,28.420315,-81.58188899999999,4.2,rides_Disney_world
+19, Jungle Cruise,37,28.4179283,-81.5834936,4.3,rides_Disney_world
+20, Mad Tea Party,36,28.419978,-81.579761,4.4,rides_Disney_world
+21, Kali River Rapids,35,28.3592822,-81.5883329,4.1,rides_Disney_world
+22, Spaceship Earth,34,28.3753673,-81.54956159999999,4.6,rides_Disney_world
+23, Test Track,33,28.3732527,-81.5475561,4.6,rides_Disney_world
+24, DINOSAUR,32,28.355255,-81.588303,4.5,rides_Disney_world
+25, Na'vi River Journey,31,28.3552662,-81.59167409999999,3.4,rides_Disney_world
+26, Mickey's PhilharMagic,30,28.4200759,-81.58146889999999,4.3,rides_Disney_world
+27, Frozen Ever After,29,28.3707095,-81.5465038,3.7,rides_Disney_world
+28, The Many Adventures of Winnie the Pooh,28,28.420102,-81.58026199999999,4.3,rides_Disney_world
+29, Dumbo the Flying Elephant,27,28.4203625,-81.5788803,4.4,rides_Disney_world
+30, Tomorrowland Transit Authority PeopleMover,26,28.418419,-81.5791429,4.6,rides_Disney_world
+31, Alien Swirling Saucers,25,28.355385,-81.56246999999999,0,rides_Disney_world
+32, Buzz Lightyear's Space Ranger Spin,24,28.418214,-81.579469,4.5,rides_Disney_world
+33, Mission: SPACE,23,28.373924,-81.54697399999999,4.4,rides_Disney_world
+34, Under The Sea ~ Journey of the Little Mermaid,22,28.4210613,-81.5799629,4.4,rides_Disney_world
+35, It's Tough to be a Bug!,21,28.3576049,-81.5902299,4.5,rides_Disney_world
+36, The Barnstormer,20,28.4206282,-81.5784383,4.4,rides_Disney_world
+37, Turtle Talk With Crush,19,28.375453,-81.5512294,4.5,rides_Disney_world
+38, Tomorrowland Speedway,18,28.419403,-81.579375,3.9,rides_Disney_world
+39, Muppet*Vision 3D,17,28.3550039,-81.5595221,4.4,rides_Disney_world
+40, Walt Disney's Enchanted Tiki Room,16,28.4182096,-81.5837116,4.1,rides_Disney_world
+41, Primeval Whirl,15,28.3565116,-81.58748469999999,4.1,rides_Disney_world
+42, Living With The Land,14,28.3741013,-81.5525844,4.5,rides_Disney_world
+43, Astro Orbiter,13,28.4184143,-81.57914579999999,4.1,rides_Disney_world
+44, The Magic Carpets of Aladdin,12,28.4184373,-81.58346279999999,4.3,rides_Disney_world
+45, TriceraTop Spin,11,28.3564143,-81.58819539999999,4.2,rides_Disney_world
+46, The Hall of Presidents,10,28.4194135,-81.5823351,4.4,rides_Disney_world
+47, Gran Fiesta Tour Starring The Three Caballeros,9,28.3720411,-81.54698839999999,4.4,rides_Disney_world
+48, Walt Disney World Railroad,8,28.42109,-81.5783719,4.7,rides_Disney_world
+49, The Seas with Nemo & Friends,7,28.3748884,-81.5507341,4.4,rides_Disney_world
+50, Country Bear Jamboree,6,28.418799,-81.583773,4.2,rides_Disney_world
+51, Prince Charming Regal Carrousel,5,28.4201407,-81.5812,4.3,rides_Disney_world
+52, Walt Disney's Carousel of Progress,4,28.4177709,-81.5788233,4.6,rides_Disney_world
+53, Journey Into Imagination With Figment,3,28.3727243,-81.5512001,3.7,rides_Disney_world
+54, Swiss Family Treehouse,2,28.4182093,-81.5830484,4.2,rides_Disney_world
+55, Stitch's Great Escape,1,28.418594,-81.57965899999999,3.1,rides_Disney_world
